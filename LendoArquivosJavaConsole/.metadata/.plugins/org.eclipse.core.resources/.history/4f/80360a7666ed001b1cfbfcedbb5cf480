@@ -1,0 +1,10 @@
+package com.educaciencia.leitorFile.scanner;
+
+public class LeitorFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
